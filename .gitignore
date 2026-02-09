@@ -208,3 +208,20 @@ __marimo__/
 .venv/
 Day-38 - Machine Learning/Cancer_RNA/
 Day-38 - Machine Learning/Cancer_RNA/
+
+
+# Environments
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets & models
+*.csv
+*.pkl
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
